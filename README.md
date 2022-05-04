@@ -1,2 +1,8 @@
 # LoteryBotSourceCode
-Th LoteryBot source code.
+The LoteryBot source code.
+
+
+Needed packages :
+discord - pip install discord
+
+Nothing other !
