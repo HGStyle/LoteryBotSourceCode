@@ -7,7 +7,7 @@ from webserver import keep_alive
 TOKEN = "token"
 client = discord.Client()
 
-lotery_channel = 970005343277039706
+lotery_channel = 'your channel id as integer format'
 participants = {}
 current_lotery_message = None
 lotery_msg = None
@@ -22,7 +22,7 @@ async def on_ready():
   global lotery_msg
   participants = {}
   current_lotery_message = None
-  lotery_channel = 970005343277039706
+  lotery_channel = 'your channel id as integer format'
   lotery_msg = None
 
 @client.event
