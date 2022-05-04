@@ -4,7 +4,7 @@ import discord
 from time import time, sleep
 from webserver import keep_alive
 
-TOKEN = "OTcwMDI3NDkyNTc4NTc4NTIz.Ym1-gA.xKMW580HY4Bo4WXBPYQmikohWyk"
+TOKEN = "token"
 client = discord.Client()
 
 lotery_channel = 970005343277039706
